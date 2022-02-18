@@ -1,0 +1,14 @@
+{
+  "name": "perfectSquareQuiz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/taitai3838/perfectSquareQuiz.git",
+  "author": "Noppawit Suttichet <taemanitai@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
